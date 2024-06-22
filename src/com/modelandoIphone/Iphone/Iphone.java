@@ -1,3 +1,5 @@
+package com.modelandoIphone.Interfaces.*;
+
 class Iphone implements IpodInterface, InternetInterface, CellPhoneInterface {
     
     // IpodInterface methods

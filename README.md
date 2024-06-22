@@ -60,4 +60,4 @@ classDiagram
       +openCalender()
       +addEventToCalender(String text)
     }
-'''
+```
